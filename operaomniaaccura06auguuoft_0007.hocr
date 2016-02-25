@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaaccura06auguuoft_0007.png"; bbox 0 0 1913 3241; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 444 1058 1171 1146">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 444 1058 1171 1146">
+     <span class='ocr_line' id='line_1_1' title="bbox 444 1058 1171 1146; baseline -0.008 1"><span class='ocrx_word' id='word_1_1' title='bbox 444 1058 1171 1146; x_wconf 87' lang='lat' dir='ltr'><strong>COLLECTIO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 721 1248 899 1281">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 721 1248 899 1281">
+     <span class='ocr_line' id='line_1_2' title="bbox 721 1248 899 1281; baseline -0.006 -1"><span class='ocrx_word' id='word_1_2' title='bbox 721 1248 899 1281; x_wconf 77' lang='lat' dir='ltr'>SELECTA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 254 1385 1370 1746">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 254 1385 1370 1746">
+     <span class='ocr_line' id='line_1_3' title="bbox 254 1385 1370 1467; baseline -0.005 -9"><span class='ocrx_word' id='word_1_3' title='bbox 254 1390 376 1458; x_wconf 80' lang='lat' dir='ltr'><strong>ss,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 442 1387 903 1457; x_wconf 83' lang='lat' dir='ltr'>ECCLESIAE</span> <span class='ocrx_word' id='word_1_5' title='bbox 960 1385 1370 1467; x_wconf 76' lang='lat' dir='ltr'><strong>PATRUM,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 718 1488 908 1607; baseline -0.011 0"><span class='ocrx_word' id='word_1_6' title='bbox 718 1488 908 1607; x_wconf 43' lang='lat' dir='ltr'><strong>C‘XIII.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 561 1713 1086 1746; baseline -0.006 -14"><span class='ocrx_word' id='word_1_7' title='bbox 561 1713 1086 1746; x_wconf 47' lang='grc' dir='ltr'><strong>ψ,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 362 1858 1307 2145">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 362 1858 1307 2145">
+     <span class='ocr_line' id='line_1_6' title="bbox 362 1858 1307 1911; baseline -0.004 -10"><span class='ocrx_word' id='word_1_8' title='bbox 362 1862 557 1903; x_wconf 75' lang='lat' dir='ltr'><strong>PATRES</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 590 1858 774 1911; x_wconf 74' lang='lat' dir='ltr'>QulNTl</span> <span class='ocrx_word' id='word_1_10' title='bbox 802 1860 1072 1904; x_wconf 72' lang='lat' dir='ltr'>ECCLEfflAE</span> <span class='ocrx_word' id='word_1_11' title='bbox 1095 1859 1307 1901; x_wconf 71' lang='lat' dir='ltr'><strong>sAEcum.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 516 1974 1105 2026; baseline -0.01 0"><span class='ocrx_word' id='word_1_12' title='bbox 516 1978 568 2026; x_wconf 72' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 605 1974 994 2026; x_wconf 69' lang='lat' dir='ltr'><em>AUGUSTJAV</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1007 1974 1105 2024; x_wconf 78' lang='lat' dir='ltr'><strong>(JS.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 772 2103 844 2145; baseline -0.028 0"><span class='ocrx_word' id='word_1_15' title='bbox 772 2103 844 2145; x_wconf 79' lang='lat' dir='ltr'><strong>vl.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
